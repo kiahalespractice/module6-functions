@@ -1,4 +1,6 @@
 # Exercise 1: writing and executing functions
+x <- 1
+
 
 # Define a function `AddThree` that takes a single argument and
 # returns a value 3 greater than that input
